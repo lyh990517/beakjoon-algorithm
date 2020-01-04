@@ -1,4 +1,7 @@
 # algorithm at baekjoon online judge site
-the number on cpp file means question number on beakjoon site \n
-this codes are the only my studying
+the number on cpp file means question number on beakjoon site
+
+
+
+https://www.acmicpc.net/
 
